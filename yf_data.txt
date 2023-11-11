@@ -1,4 +1,4 @@
-GOLD
+GC=F
 ^GSPC
 ^DJI
 EGO
